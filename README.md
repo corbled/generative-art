@@ -1,2 +1,4 @@
-# generative-art
-Generative art practice tutorials 
+# Generative-art
+
+## To do
+- Finish tutorials 
